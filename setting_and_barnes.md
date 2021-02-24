@@ -1,6 +1,8 @@
 ---
-title: PAGE TITLE HERE
+title: Setting and Djuna Barnes
 layout: template
 ---
 
-hello! 
+Information about the setting of the novel and Djuna Barnes will go here
+
+
