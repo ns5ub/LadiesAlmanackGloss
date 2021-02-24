@@ -1,7 +1,7 @@
 ---
 title: Setting and Djuna Barnes
 layout: template
-filename: setting_and_barnes.md
+filename: setting_and_barnes.html
 ---
 
 Information about the setting of the novel and Djuna Barnes will go here
