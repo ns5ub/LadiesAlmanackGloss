@@ -1,5 +1,5 @@
 ---
-title: Setting and Djuna Barnes
+title: Preface
 layout: template
 filename: preface.html
 ---
