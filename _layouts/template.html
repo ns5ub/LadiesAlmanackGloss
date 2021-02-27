@@ -49,7 +49,7 @@
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   {% for chapter in site.chapters %}
-                    <a class="dropdown-item" href="https://ns5ub.github.io/LadiesAlmanackGloss/{{ chapter.url }}">{{ chapter.title }}</a>
+                    <a class="dropdown-item" href="https://ns5ub.github.io/LadiesAlmanackGloss{{ chapter.url }}">{{ chapter.title }}</a>
                   {% endfor %}
               </div>
             </li>
@@ -58,8 +58,8 @@
     </div>
   </nav>
 
-<div class="container-sm">
-    hello 2
+
+<div class="container pt-5">
     {{content}}
 </div>
 
