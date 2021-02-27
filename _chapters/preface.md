@@ -1,7 +1,7 @@
 ---
 title: Preface
 layout: template
-filename: ./_chapters/preface.md
+filename: _chapters/preface.html
 ---
 
 Now this be a Tale of as fine a Wench as ever wet Bed, she who was called Evangeline Musset and who was in her Heart one Grand Red Cross for the Pursuance, the Relief and the Distraction, of such Girls as in their Hinder Parts, and their Fore Parts, and in whatsoever Parts did suffer them most, lament Cruelly, be it Itch of Palm, or Quarters most horribly burning, which do oft occur in the Spring of the Year, or at those Times when they do sit upon warm and cozy Material, such as Fur, or thick and Oriental Rugs, (whose very Design it seems, procures for them such a Languishing of the Haunch and Reins as is insupportable) or who sit upon warm Stoves, whence it is known that one such flew up with an” Ah my God! What a World it is for a Girl indeed, be she ever so well abridged and cool of Mind and preserved of Intention, the Instincts are, nevertheless, brought to such a yelping Pitch and so undo her, that she runs hither and thither seeking some Simple or Unguent which shall allay her Pain! And why is it no Philosopher of whatever Sort, has discovered, amid the nice Herbage of his Garden, one that will content that Part, but that from the day that we were indifferent Matter, to this wherein we are Imperial Personages of the divine human Race, no thing so solaces it as other Parts as inflamed, or with the Consolation every Woman has at her Finger Tips, or at the very Hang of her Tongue?”
