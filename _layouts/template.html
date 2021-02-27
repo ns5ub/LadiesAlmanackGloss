@@ -48,8 +48,8 @@
                 Chapters
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  {% for page in site.collections.chapters.docs %}
-                    <a class="dropdown-item" href="{{ page.filename }}">{{ page.title }}</a>
+                  {% for chapter in site.chapters %}
+                    <a class="dropdown-item" href="{{ chapter.url }}">{{ chapter.title }}</a>
                   {% endfor %}
               </div>
             </li>
@@ -59,6 +59,7 @@
   </nav>
 
 <div class="container-sm">
+    hello 2
     {{content}}
 </div>
 

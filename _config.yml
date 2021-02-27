@@ -1,2 +1,6 @@
 collections:
-  - _chapters
+  chapters:
+    output: true
+    order:
+      - preface.md
+      - january.md
