@@ -1,6 +1,7 @@
 collections:
   chapters:
     output: true
+    permalink: /chapters/:path/
     order:
       - preface.md
       - january.md
