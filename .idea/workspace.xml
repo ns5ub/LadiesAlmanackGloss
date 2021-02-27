@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ecd3359-d79d-4f69-8920-82f4b4da0e2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/january.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_chapters/january.md" beforeDir="false" afterPath="$PROJECT_DIR$/_chapters/january.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,5 +69,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614412151831">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="427" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.800@0.23.1440.800" timestamp="1614412151831" />
   </component>
 </project>
