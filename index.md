@@ -1,5 +1,5 @@
 ---
-title: PAGE TITLE HERE
+title: Home
 layout: template
 ---
 
