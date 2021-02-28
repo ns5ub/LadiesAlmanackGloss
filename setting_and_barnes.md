@@ -15,7 +15,7 @@ filename: setting_and_barnes.html
 
 <div class="card">
   <div class="card-body">
-    <h5 class="card-title">Quick Key!/h5>
+    <h5 class="card-title">Quick Key!</h5>
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item">Dame Evangeline Musset - Natalie Clifford Barney</li>
