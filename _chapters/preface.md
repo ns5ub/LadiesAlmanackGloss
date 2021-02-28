@@ -8,25 +8,25 @@ analysis: -
 key: The character of Dame Evangeline Musset is based off of the real-world person of Natalie Clifford Barney. She was 
 ---
 
-<h1>{{title}}</h1>
+<h1>{{site.title}}</h1>
 <br>
 <div class="container">
       <div class="card">
           <div class="card-body">
                 <h5 class="card-title">Summary</h5>
-                <p class="card-text"> {{summary}} </p>
+                <p class="card-text"> {{site.summary}} </p>
           </div>
       </div>
       <div class="card">
           <div class="card-body">
                 <h5 class="card-title">Analysis</h5>
-                <p class="card-text"> {{analysis}} </p>
+                <p class="card-text"> {{site.analysis}} </p>
           </div>
       </div>
       <div class="card">
           <div class="card-body">
                 <h5 class="card-title">Key</h5>
-                <p class="card-text"> {{key}} </p>
+                <p class="card-text"> {{site.key}} </p>
           </div>
       </div>
 </div>
