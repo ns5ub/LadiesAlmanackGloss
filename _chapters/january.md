@@ -22,7 +22,7 @@ filename: _chapters/january.html
       <div class="card">
           <div class="card-body">
                 <h5 class="card-title">Key</h5>
-                <p class="card-text"> Patience Scalpel is a representative of Mina Loy, a friend of Djuna Barnes who lived in the same Paris community with her husband. </p>
+                <p class="card-text"> Patience Scalpel is a representative of Mina Loy, a friend of Djuna Barnes who lived in the same Paris community with her husband. She was a poet and had her own salon in the same era as Barney's own.</p>
           </div>
       </div>
 </div>
