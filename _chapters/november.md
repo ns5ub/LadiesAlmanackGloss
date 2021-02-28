@@ -16,7 +16,7 @@ filename: _chapters/november.html
       <div class="card">
           <div class="card-body">
                 <h5 class="card-title">Analysis</h5>
-                <p class="card-text"> It seems that the ages of 50 and 60 are considered important milestones by Barnes as February states:
+                <p class="card-text"> It seems that the ages of 50 and 60 are considered important milestones by Barnes as February states:</p><p class="card-text">
 
 "August
 
@@ -25,7 +25,7 @@ When fifty odd and a day she came upon that Wind that is labelled the second.
 Septembre
 
 When sixty some, she came to no Good as well as another."
-
+</p><p class="card-text">
 Furthermore, Barnes states that "to Woman it comes when she has no cause for Children and no effect for Babes! Then is she wise!" This is said to happen at 50, which Musset also obtains said wisdom at, despite not having children. This seems to suggest menopause gives the wisdom, as 50 is around the average age when menopause begins. </p>
           </div>
       </div>
