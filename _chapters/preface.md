@@ -2,6 +2,7 @@
 title: Preface
 layout: template
 filename: _chapters/preface.html
+index: 0
 ---
 
 <h1>Preface</h1>

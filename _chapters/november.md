@@ -2,6 +2,7 @@
 title: November
 layout: template
 filename: _chapters/november.html
+index: 11
 ---
 
 <h1>November</h1>

@@ -48,7 +48,8 @@
                 Chapters
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  {% for chapter in site.chapters %}
+                  {% assign sorted_chapters = site.chapters | sort:"index"  %}
+                  {% for chapter in sorted_chapters %}
                     <a class="dropdown-item" href="https://ns5ub.github.io/LadiesAlmanackGloss{{ chapter.url }}">{{ chapter.title }}</a>
                   {% endfor %}
               </div>

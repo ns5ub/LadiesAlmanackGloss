@@ -2,6 +2,7 @@
 title: May
 layout: template
 filename: _chapters/may.html
+index: 5
 ---
 
 <h1>May</h1>
