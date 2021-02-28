@@ -25,7 +25,7 @@ filename: _chapters/preface.html
       <div class="card">
           <div class="card-body">
                 <h5 class="card-title">Key</h5>
-                <p class="card-text"> The character of Dame Evangeline Musset is based off of the real-world person of Natalie Clifford Barney. </p>
+                <p class="card-text"> The character of Dame Evangeline Musset is based on Natalie Clifford Barney. Barney was the owner of the Paris salon this book highlights. Barney inherited a large amount of wealth after the death of her father and around 50 years old at the time which the Ladies Almanack was written. Just as Musset, Barney was known to have acquired an astounding amount of female lovers and was quite open with her lesbianism. </p>
           </div>
       </div>
 </div>
