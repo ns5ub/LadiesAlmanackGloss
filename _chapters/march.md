@@ -14,4 +14,6 @@ Analysis:
 
 “Should she not be protected in some way, from Hazard, ever attending that which is illegal? And should One or the Other stray, ought there not to be a Law as binding upon her as upon another, that Alimony might be Collected; and that Straying be nipped in the Bud?” -divorce and compensation, why should lesbians not have this same courtesy? 
 
-Character: Tilly is based off of Radclyffe Hall and Lady Buck-and-Balk is based off of Lady Una Troubridge. It makes sense that Tilly is arguing for same sex marriage in this chapter because Radclyffe herself was an advocate for homosexuals. Hall was a poet and author, and includes lesbianism in her work.
+Character:
+
+Tilly is based off of Radclyffe Hall and Lady Buck-and-Balk is based off of Lady Una Troubridge. It makes sense that Tilly is arguing for same sex marriage in this chapter because Radclyffe herself was an advocate for homosexuals. Hall was a poet and author, and includes lesbianism in her work.
