@@ -25,6 +25,7 @@ index: 5
                 <h5 class="card-title">Key</h5>
                 <p class="card-text"> Bounding Bess’ real-life counterpart was Esther Murphy, who became a Lesbian after having many Husbands. However, as she married Gavin Arthur in 1935, she was likely not openly a lesbian at the time. "Arthur Family Papers" (PDF). Library of Congress. pp. 3–4.
  </p>
+                <p class="card-text"> Doll Furious was Dolly Wilde, a neice of Oscar Wilde whom she bore a striking resemblance to. She was one of Barney's main lovers in the 1920s to 1930s. She once even called Barney "Dame Musset" in reference to the Almanack. </p>
           </div>
       </div>
 </div>
